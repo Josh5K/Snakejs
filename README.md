@@ -4,8 +4,6 @@ A Simple Snake Game
 
 # Getting Started
 
-1. Clone repo
-1. Open index.html
-1. Enjoy!
+A live demo can be found at https://josh5k.github.io/snakejs/
 
 ![Snake.js Game](https://i.imgur.com/crPRr7a.png)
